@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 
 # Site settings
-title: Course title
-email: your-email@domain.com
+title: Still:Moving
+email: kegan@risd.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Name, Instructor &bull; Course Number, Semester &bull; Day, Time
+  Kelly Egan, Instructor &bull; PHOTO-5312, Fall 2017; Tuesday, 1&ndash;6p.m.
 baseurl: "" # the subpath of your site, e.g. /blog
 gems: [jekyll-paginate]
