@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: Course title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Name, Instructor &bull; Course Number, Semester &bull; Day, Time
+baseurl: "" # the subpath of your site, e.g. /blog
+gems: [jekyll-paginate]
