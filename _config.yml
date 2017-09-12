@@ -3,5 +3,5 @@ title: "Still:Moving"
 email: kegan@risd.edu
 description: > # this means to ignore newlines until "baseurl:"
   Kelly Egan, Instructor &bull; PHOTO-5312, Fall 2017, Tuesday, 1:10&ndash;6:10p.m.
-baseurl: "https://kellyegan.github.io/StillMoving/" # the subpath of your site, e.g. /blog
+baseurl: "https://kellyegan.github.io/StillMoving" # the subpath of your site, e.g. /blog
 gems: [jekyll-paginate]
