@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1: Black box
+title: "Project 1: Black box"
 categories: assignment
 ---
 
