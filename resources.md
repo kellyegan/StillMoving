@@ -10,7 +10,6 @@ A collection of sites, tools and artist referenced in class.
 
 * [American Science and Surplus](http://sciplus.com)
 
-
 ### Concepts
 
 * [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
@@ -18,6 +17,11 @@ A collection of sites, tools and artist referenced in class.
 
 ### Artists
 
-* [Oscar Muñoz at Jue de Paume](https://vimeo.com/98543782)
+* Oscar Muñoz
+  * [Jue de Paume exhibition](https://vimeo.com/98543782)
+* Christof Wodiczko
+  * [Abraham Lincoln: War Veteran Projection](https://vimeo.com/53446621)
+*  
+  * [The Palace at 4 a.m. at PS1](https://www.youtube.com/watch?v=k-uBggfiMGo)
 
 
