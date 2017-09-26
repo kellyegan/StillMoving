@@ -30,6 +30,9 @@ A collection of sites, tools and artist referenced in class.
   * [The Palace at 4 a.m. at PS1](https://www.youtube.com/watch?v=k-uBggfiMGo)
 * [Jennifer and Kevin McCoy](http://mccoyspace.com/)
   * [Eyeo 2017 talk, 24:00 - 33:00](https://vimeo.com/232544899)
+* Christian Marclay
+  * [The Clock](https://www.youtube.com/watch?v=xp4EUryS6ac)
+  * [On Time: Discussing the clock](https://www.youtube.com/watch?v=EQ_wKD6XQTM)
 * Oscar Muñoz
   * [Jue de Paume exhibition](https://vimeo.com/98543782)
 * Tony Oursler
