@@ -6,6 +6,8 @@ permalink: /resources/
 
 A collection of sites, tools and artist referenced in class.
 
+[Demo video](https://www.dropbox.com/s/gfxe24sjc5ey49l/09262017_granoffview.mov?dl=0)
+
 ### Suppliers
 
 * [American Science and Surplus](http://sciplus.com)
