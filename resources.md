@@ -14,9 +14,10 @@ A collection of sites, tools and artist referenced in class.
 
 * [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
 * [Film before film](https://www.youtube.com/watch?v=s0KADBMXY-8), Werner Nekes
-* [Flotilla, electromechanical arcade game](https://www.youtube.com/watch?v=rDFaqnwp9Rg)
+* [Flotilla](https://www.youtube.com/watch?v=rDFaqnwp9Rg), 1970, electromechanical arcade game
 
 ### Media sources
+
 * [Internet Archive](http://archive.org/)
 
 ### Artists
