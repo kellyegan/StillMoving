@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 4: Strange Loop"
-date:   2017-09-26
+date:   2017-10-03
 categories: week
 ---
 
