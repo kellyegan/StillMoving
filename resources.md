@@ -24,6 +24,8 @@ A collection of sites, tools and artist referenced in class.
 
 ### Artists
 
+* [Zoe Beloff](http://www.zoebeloff.com)
+  * [The Ideoplastic Materializations of Eva C.](http://www.zoebeloff.com/eva/)
 * Peter Campus
   * [Three Transitions](https://www.youtube.com/watch?v=Ar99AfOJ2o8)
 * Aristarkh Chernyshev
