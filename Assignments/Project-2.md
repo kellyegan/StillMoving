@@ -4,7 +4,7 @@ title: "Project 2: Loop"
 categories: assignment
 ---
 
-### DUE: Oct. 10
+### DUE: Mar. 14
 
 For this project we will address the subject of time without progress.  Using Adobe AfterEffects and any appropriate support applications, build a video loop which plays continuously. The loop can imply a narrative, but it should not be an obvious “story” in the linear sense. Your piece shouldn't imply an obvious beginning or end.
 
