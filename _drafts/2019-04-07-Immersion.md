@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 7: Immersion"
+title:  "Week 8: Immersion"
 categories: week
 ---
 
