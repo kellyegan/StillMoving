@@ -21,9 +21,9 @@ layout: default
 	<div class="row">
 
 		<div class="post-content col-sm-8 col-sm-offset-2">
-		{% unless post.featured-image %}
+		{% if post.featured-image %}
 		<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-		{% endunless %}
+		{% endif %}
 			{{ post.content }}
 		</div>
 	</div>
