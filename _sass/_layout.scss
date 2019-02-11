@@ -24,6 +24,15 @@
     }
 }
 
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    min-height: 175px;
+    box-sizing: border-box;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -155,6 +164,9 @@
 }
 
 @include media-query($on-palm) {
+    .jumbotron {
+        background-size: cover;
+    }
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));

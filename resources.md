@@ -14,9 +14,12 @@ A collection of sites, tools and artist referenced in class.
 
 ### Concepts
 
+### Pre-cinematic devices
+
 * [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
-* [Film before film](https://www.youtube.com/watch?v=s0KADBMXY-8), Werner Nekes
+* [Film before film](https://www.youtube.com/watch?v=fKTvEsvH59g), Werner Nekes
 * [Flotilla](https://www.youtube.com/watch?v=rDFaqnwp9Rg), 1970, electromechanical arcade game
+* [Theatre Optique](https://www.youtube.com/watch?v=TAUA6pg_EXk) Film on Praxinoscope narrated by Walt Disney
 
 ### Media sources
 
@@ -55,5 +58,5 @@ A collection of sites, tools and artist referenced in class.
 * Christof Wodiczko
   * [Abraham Lincoln: War Veteran Projection](https://vimeo.com/53446621)
 
-
+* [Christof Wodiczko's Abraham Lincoln: War Veteran Projection](https://vimeo.com/53446621)
 
