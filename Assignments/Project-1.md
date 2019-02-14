@@ -12,4 +12,4 @@ In this project we will create pre-cinematic devices using lenses, mirrors, pinh
 
 Be sure to spend some time exploring the various tropes and common subject matter used. These devices filled a void in a world where travel and media were hard to come by. Who were their audiences? Will your piece reference this historical  subject matter? If so how will it critique or build upon it? You can also consider the idea of motion or movement metaphorically. Movements can be political, emotional and intellectual as well.
 
-For a better understanding of how the project will be graded view the **[Assessment Rubric](https://docs.google.com/spreadsheets/d/1F7aEy0hQTrfCeIL3V5KENbTvqRvR6i1DagxWA97S8ig/edit?usp=sharing)**
+For a better understanding of how the project will be graded view the **[Assessment Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vRShab71xfYGgPLucQsQOwBNnG3V1YNIavXWjJAFee1thdYbQTMpwvAL6nXYYwEk6X66r4NZ51Cor1A/pubhtml?gid=0&single=true)**
