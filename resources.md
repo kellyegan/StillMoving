@@ -6,17 +6,58 @@ permalink: /resources/
 
 A collection of sites, tools and artist referenced in class.
 
-## Pre-cinematic devices
+---
+## Pre-cinema
 
-* [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
 * [Film before film](https://www.youtube.com/watch?v=fKTvEsvH59g), Werner Nekes
-* [Flotilla](https://www.youtube.com/watch?v=rDFaqnwp9Rg), 1970, electromechanical arcade game
-* [Theatre Optique](https://www.youtube.com/watch?v=TAUA6pg_EXk) Film on Praxinoscope narrated by Walt Disney
+* [Museu del Cinema's YouTube Channel](https://www.youtube.com/channel/UCIibfnCg3YhDh8gJFNhBcLQ)
 
+### Devices and techniques
+
+* [Camera obscura](https://en.wikipedia.org/wiki/Camera_obscura)
+* [Thaumatrope](https://en.wikipedia.org/wiki/Thaumatrope)
+* [Phenakistiscope](https://en.wikipedia.org/wiki/Phenakistiscope)
+* [Zoetrope](https://en.wikipedia.org/wiki/Zoetrope)
+	* Masstransiscope, Bill Brand
+		* [Masstransiscope, 1980](https://www.youtube.com/watch?v=d-2oxMB8U-E)
+		* [Masstransiscope Restoration](https://www.youtube.com/watch?v=c-_eHFXqxpQ)
+  * [Faster, Faster!, Siobhan Mcauley](http://abrooksart.com/portfolio/siobhan-mcauley/)
+	* [Toki Ballet, Akinori Goto](https://vimeo.com/193223122)
+	* Gregory Barsamian
+		* [Video by the Creators Project](https://www.youtube.com/watch?v=4cmDcZY9Trc)
+		* [Article on LaughingSquid](https://laughingsquid.com/spinning-animated-sculptures-by-gregory-barsamian/)
+* [Praxinoscope](https://en.wikipedia.org/wiki/Praxinoscope)
+	* [Projection](https://www.youtube.com/watch?v=wrHflL3Fb-I), Museu del Cinema
+	* [Reynaud's Theatre Optique video](https://www.youtube.com/watch?v=e4zQ49zgclM), Museu del Cinema
+	* [Theatre Optique](https://www.youtube.com/watch?v=TAUA6pg_EXk) Film on Praxinoscope narrated by Walt Disney
+* [Magic Lantern](https://en.wikipedia.org/wiki/Magic_lantern)
+	* [Magic lantern](https://www.youtube.com/watch?v=q9kLpfbHCjk)
+	* [Multiple plane slide](https://www.youtube.com/watch?v=sAcGf1-m9-c)
+	* [Choreutoscope](https://www.youtube.com/watch?v=Wqck3ET9vto)
+* [Flipbooks](https://en.wikipedia.org/wiki/Flip_book)
+	* [Filoscope](https://www.youtube.com/watch?v=wYS_55YlRDc)
+	* [Mutoscope](https://www.youtube.com/watch?v=R75QpPehOXs)
+	* [Kinora](https://en.wikipedia.org/wiki/Kinora)
+* [Electrotachyscope](https://en.wikipedia.org/wiki/Electrotachyscope)
+* [Kinetoscope](https://en.wikipedia.org/wiki/Kinetoscope)
+* [Shadow Theatre](https://www.youtube.com/watch?v=T3ztg6VZuNI)
+* [Kinegram](https://en.wikipedia.org/wiki/Barrier_grid_animation_and_stereography) 
+	* [Ombro Cinema](https://www.youtube.com/watch?v=svlFbL84SfU)
+* [Lenticular](https://en.wikipedia.org/wiki/Lenticular_printing)
+* [Zograscope](https://en.wikipedia.org/wiki/Zograscope)
+* [Polyorama panoptique](https://en.wikipedia.org/wiki/Polyorama_Panoptique)
+	* [Video](https://www.youtube.com/watch?v=1r5O9cWRQ4c), Museu del Cinema
+* [Caixa d'Òptica, Optical Box](https://www.youtube.com/watch?v=ygomb3-yyhM)
+* [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
+	* [Video](https://www.youtube.com/watch?v=Ipnk8rEEgy4), Museu del Cinema
+	* [Flotilla](https://www.youtube.com/watch?v=rDFaqnwp9Rg), 1970, electromechanical arcade game
+
+---
 ## Media sources
 
 * [Internet Archive](http://archive.org/)
 
+---
 ## Artists
 
 * [Zoe Beloff](http://www.zoebeloff.com)
