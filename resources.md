@@ -101,6 +101,8 @@ A collection of sites, tools and artist referenced in class.
 	* [Pipilotti Rist, Pioneer of Video Art, Brilliant Ideas Ep. 55](https://www.youtube.com/watch?v=nCusgvPo5vM)
 * Zbigniew Rybczyński
 	* [Tango, 1980](https://vimeo.com/90339479)
+* [Scott Snibbe](https://www.snibbe.com)
+  * [Deep Walls, 2002](https://www.snibbe.com/projects/interactive/deepwalls/)
 * [Gebhard Sengmueller](http://www.gebseng.com)
 	* [Slide Movie](https://vimeo.com/143231146)
 	* [VSSTV](https://vimeo.com/143231190) - Very Slow Scan Television
