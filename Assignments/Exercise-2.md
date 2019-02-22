@@ -6,7 +6,7 @@ categories: assignment
 
 ### DUE: Feb. 28
 
-Using After Effects create a 15 different transitions between two images. You can use any layer properties or effect except for pre-made transitions. The purpose of this exercise is to experiment and learn about using keyframes with animations and effects. Your transitions animations can be as short as a few seconds, but you might want to experiment with longer transitions.
+Using After Effects create a 8 different transitions between two images. You can use any layer properties or effect except for pre-made transitions. The purpose of this exercise is to experiment and learn about using keyframes with animations and effects. Your transitions animations can be as short as a few seconds, but you might want to experiment with longer transitions.
 
 **Please include:**
 
