@@ -12,7 +12,7 @@ The use of time in the loop may be slow and barely discernible to fast with lots
 
 Also consider the idea of loops more broadly. Take some time to think of the various ways loops can be found in life and metaphor. How does the idea of a loop defy time or enhance it? Can you your work address the concepts of loops more conceptually? What is time without progress? Motion without movement?
 
-* You piece should between 30 seconds and three minutes long.
+* Your piece should between two and three minutes long. Alternatively you could create a series of shorter compositions that total two to three minutes in length.
 * Piece should be exported to an MP4 file for viewing in class.
 * Please bring the original source material and After Effects project in case we want to discuss process.
 
