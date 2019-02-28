@@ -7,7 +7,6 @@ layout: default
 
 <div class="jumbotron" {% if post.featured-image %}style="background-image: url(assets/img/{{post.featured-image}});{% endif %} {% unless post.image-repeat %}background-size: cover{% endunless %};">
 	<div class="container">	
-		<div class="col-sm-8	col-sm-offset-2"></div>
 		{% unless post.featured-image %}
 			<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 		{% endunless %}
