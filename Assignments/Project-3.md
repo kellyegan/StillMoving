@@ -13,3 +13,5 @@ In this project we will address how a time-based work might address the context 
 * The piece should include some element of time-based imagery or moving image.
 * It should relate to a specific environment, location or type of environment.
 * If it is an environment that is inaccessible or inconvenient to reach during critique you may show high-quality documentation instead.
+
+For a better understanding of how the project will be graded view the **[Assessment Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNyKP3acMOuNjlALEODGvZhsM3-aym_rvAqoHAPTZKtFOD6nQhuHY_9xM_QDTTbLcHc6BHk2w0fwWp/pubhtml?gid=0&single=true)**

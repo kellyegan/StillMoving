@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 5: Narrative"
+title:  "Week 5"
 categories: week
 ---
 
