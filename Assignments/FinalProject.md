@@ -19,7 +19,7 @@ You can approach your work in several ways:
 In this case the work should be refined and complete work. It should be a work that could be exhibited publicly. You should be able to talk clearly about your process and goals for the piece as well as the results of the finished work.
 
 #### Body of experiments
-The experiements can be on a particular technique or a particular topic. Each experiment may be less refined but as a group the work should show an in-depth exploration of the technique or topic. The body should push boundaries and/or show clear progress in tackling your chosen topic. You should still be able to speak clearly about what you learned from the process and what directions you found fruitful.
+The experiements can be on a particular technique or topic. Each experiment may be less refined but as a group the work should show an in-depth exploration of the technique or topic. The body should push boundaries and/or show clear progress in tackling your chosen topic. You should still be able to speak clearly about what you learned from the process and what directions you found fruitful.
 
 * The piece should include some element of time-based imagery or moving image.
 * You should submit a written proposal with a one-paragraph description, and three to five questions you hope to explore.
